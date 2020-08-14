@@ -1,0 +1,24 @@
+_repo: And-the-Gods-Laughed_62915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, Fredric
+    alias: Brown, Fred
+    birthdate: 1906
+    deathdate: 1972
+    gutenberg_agent_id: '32063'
+    url: http://www.gutenberg.org/2009/agents/32063
+    wikipedia: http://en.wikipedia.org/wiki/Fredric_Brown
+description: ''
+gutenberg_issued: '2020-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: And the Gods Laughed
+url: http://www.gutenberg.org/ebooks/62915
